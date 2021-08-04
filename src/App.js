@@ -29,7 +29,7 @@ function App() {
     (e) => {
       // them text input vao danh sach todoList
       setTodoList([
-        { id: v4(), name: textInput, isCompleted: false },
+        { id: v4(), name: textInput, iscompleted: false },
         ...todoList,
       ]);
 
@@ -41,7 +41,7 @@ function App() {
   const onCheckBtnClick = useCallback((id) => {
     setTodoList((prevState) =>
       prevState.map((todo) =>
-        todo.id === id ? { ...todo, isCompleted: true } : todo
+        todo.id === id ? { ...todo, iscompleted: true } : todo
       )
     );
   }, []);
