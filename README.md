@@ -4,18 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Sample
 
-![Screenshot](https://user-images.githubusercontent.com/84697800/124897737-c8e8eb00-e008-11eb-913c-428b302791df.png)
-
-![Screenshot](https://user-images.githubusercontent.com/84697800/124912733-7f080100-e018-11eb-8a7a-9cd69ab08229.png)
+![demo_ToDoApp](https://user-images.githubusercontent.com/72819240/128329895-91f8db23-d1d3-4eb6-9515-5d278dee157d.png)
 
 ## Live demo
 
-[Click here](https://brian-tgle.github.io/code-challenge-ske)
+[Click here](https://kiethohohoho.github.io/react-todo-app/)
 
 ## Features
 
-- Github API - Search User by keyword
-- Union all overlapping items
+- Thêm việc cần làm và đánh dấu gạch bỏ khi đã làm xong việc đó
+- Lưu danh sách việc cần làm ở local storage
 
 ## 📦 Install
 
