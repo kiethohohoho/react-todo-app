@@ -7,6 +7,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Trên PC
 ![demo1](https://user-images.githubusercontent.com/72819240/128527444-b3ee9c89-85e8-4109-9b2a-6b79fc8fcb23.png)
 
+
+
+
+
 Trên điện thoại
 
 ![demo2](https://user-images.githubusercontent.com/72819240/128527519-ebd16add-6edc-48fe-b554-b34fec94ac89.png)
