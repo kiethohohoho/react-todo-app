@@ -4,11 +4,23 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 100px 280px;
+  height: 100vh;
+  background-image: url(./images/img_tree.png);
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  overflow: hidden;
+  background-color: antiquewhite;
 }
 
 #root {
-  width: 100%;
+  width: 70%;
+}
+
+@media (min-width: 601px) {
+  #root {
+    width: 50%;
+  }
 }
 
 code {
