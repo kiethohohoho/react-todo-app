@@ -9,7 +9,6 @@ Trên PC
 
 Trên điện thoại
 
-
 ![demo2](https://user-images.githubusercontent.com/72819240/128527519-ebd16add-6edc-48fe-b554-b34fec94ac89.png)
 
 ## Live demo
